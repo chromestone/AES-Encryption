@@ -1,4 +1,4 @@
-This program encrypts using AES (and it has GUI :). I beleive that the way I wrote this is an incorrect use of cyphering. But it's the effort that counts right?
+This program encrypts using AES (and it has GUI :). I believe that the way I wrote this is an incorrect use of encryption. But it's the effort that counts right?
 
 Note that the option "settings" also exits the program.
 
