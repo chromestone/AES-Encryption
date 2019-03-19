@@ -7,9 +7,9 @@ import java.awt.datatransfer.StringSelection;
 import java.util.Arrays;
 import java.util.List;
 
-import cst0ne.encryption.ui.SimpleOptionPane;
-import cst0ne.encryption.util.AESCipher;
-import cst0ne.encryption.util.InputPackage;
+import com.gmail.absolutevanillahelp.encryption.ui.SimpleOptionPane;
+import com.gmail.absolutevanillahelp.encryption.util.AESCipher;
+import com.gmail.absolutevanillahelp.encryption.util.InputPackage;
 
 public class Main {
 
