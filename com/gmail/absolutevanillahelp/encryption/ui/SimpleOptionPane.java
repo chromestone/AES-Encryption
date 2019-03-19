@@ -6,7 +6,7 @@ import java.awt.*;
 
 import javax.swing.*;
 
-import cst0ne.encryption.util.InputPackage;
+import com.gmail.absolutevanillahelp.encryption.util.InputPackage;
 
 public class SimpleOptionPane extends JOptionPane {
 
